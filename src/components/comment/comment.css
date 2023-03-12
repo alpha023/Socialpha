@@ -1,0 +1,34 @@
+.commentUserWrapper{
+    display: flex;
+}
+.commentInfo{
+    display: flex;
+    margin: 10px;
+}
+
+.commentProfilePic{
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+.commentTextInfo{
+    display: list-item;
+    margin: 0 10px;
+}
+
+.profileName{
+    font-weight: 500;
+    cursor: pointer;
+}
+
+.commentLike{
+    margin-right: 10px;
+    margin-left: 10px;
+    cursor: pointer;
+}
+
+.commentReply{
+    cursor: pointer;
+}

@@ -1,0 +1,27 @@
+.commentContainer{
+    display: flex;
+
+  height: 100vh;
+  overflow-x: hidden;
+  overflow-y: auto;
+ 
+  position: sticky;
+
+}
+
+.commentWrapper{
+    margin: 10px 10px;
+    width: 70%;
+    overflow-y: scroll;
+}
+.commentHeader{
+
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+
+
+
+
